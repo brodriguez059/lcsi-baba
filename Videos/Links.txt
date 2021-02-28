@@ -1,0 +1,10 @@
+Siguiente(x)
+https://www.youtube.com/watch?v=gcY4pQlK5GY
+
+Palindromica?(x) - Aceptada
+https://www.youtube.com/watch?v=HdJrOqK-e1s
+Palindromica?(x) - Rechazada
+https://www.youtube.com/watch?v=AY3NWy7ct_M
+
+Invertir(x)
+https://www.youtube.com/watch?v=HWXIKDBcp_s
